@@ -1,0 +1,23 @@
+html{
+	scroll-behavior: smooth;
+}
+
+.bg-blue-gradient {
+	/*background-color: #6a49c6;*/
+	background: rgb(0,0,0);
+	background: linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 0%, rgb(0, 0, 0) 100%); 
+}
+
+body{
+	height: 100vh;
+	padding: 20px;
+}
+
+.btn-custom{
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,85,0,1) 0%, rgba(234,199,71,1) 100%); 
+}
+
+.signin-div{
+	padding: 5px;
+}
